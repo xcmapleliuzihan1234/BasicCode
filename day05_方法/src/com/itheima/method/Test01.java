@@ -1,6 +1,7 @@
 package com.itheima.method;
 
 import java.util.Scanner;
+
 /*
 判断奇偶
 */
@@ -9,13 +10,14 @@ public class Test01 {
         Scanner sc = new Scanner(System.in);
         System.out.print("请输入一个数：");
         int cin = sc.nextInt();
-       math(cin);
+        math(cin);
     }
-    public static void math(int cin){
 
-        if(cin % 2 == 0){
+    public static void math(int cin) {
+
+        if (cin % 2 == 0) {
             System.out.println("这是偶数");
-        }else {
+        } else {
             System.out.println("这是奇数");
         }
     }

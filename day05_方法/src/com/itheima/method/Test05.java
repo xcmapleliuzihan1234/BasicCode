@@ -1,7 +1,6 @@
 package com.itheima.method;
 
 import java.util.Arrays;
-
 /*
 数组的遍历，要求输出格式：[1,2,3,4,5]
  */

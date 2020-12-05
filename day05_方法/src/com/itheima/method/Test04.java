@@ -1,5 +1,4 @@
 package com.itheima.method;
-
 /*
 判断两个数是否相等，要求可以输入所有的整数类型
  */
@@ -7,7 +6,6 @@ public class Test04 {
     public static void main(String[] args) {
         int num1 = 10;
         int num2 = 20;
-
         System.out.println("这两个数相等：" + compare(num1,num2));
     }
     //byte型
