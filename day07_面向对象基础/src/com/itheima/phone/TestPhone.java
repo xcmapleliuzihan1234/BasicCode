@@ -6,9 +6,8 @@ public class TestPhone {
         ph.brand = "华为";
         ph.price = 10000;
 
-        System.out.println(ph.brand);
-        System.out.println(ph.price);
+        System.out.println(ph.brand + "..." + ph.price);
         ph.call("张三");
-        ph.sendMessage("李四");
+       ph.sendMessage("李四");
     }
 }

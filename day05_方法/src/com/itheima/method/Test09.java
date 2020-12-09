@@ -1,5 +1,7 @@
 package com.itheima.method;
-
+/*
+ËÄÉáÎåÈë
+ */
 import java.util.Scanner;
 
 public class Test09 {
